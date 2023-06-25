@@ -1,5 +1,5 @@
 # FFR110-Computational-Biology
-Course FFR110 at Chalmers University. Similarly to TIF155, the main focus here has been on simulating and analyzing dynamical systems however this time touching more on DDEs and PDEs.
+Course FFR110 at Chalmers University. Similarly to TIF155, the main focus here has been on simulating and analyzing dynamical systems however this time touching more on DDEs and PDEs as well as genetics.
 
 Oscillations of a DDE for different delays | Travelling wave of a PDE 
 :-------------------------:|:-------------------------:
